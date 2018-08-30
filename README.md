@@ -8,8 +8,9 @@ Veri Sözlükleri:
 Api terminal çağrısı:
 
 api input json formatı:  {'text':'input'}
+-----------------------------------------
 output: {[entity,label], [entity,label]} 
-
+-----------------------------------------
 curl sorgusu
 ------------
 
